@@ -1,0 +1,6 @@
+# Ignorar archivos y carpetas comunes
+.DS_Store
+node_modules/
+*.log
+env/
+.vscode/
